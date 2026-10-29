@@ -1,0 +1,5 @@
+Model,Clusters,Noise Points,Silhouette,Davies-Bouldin,Calinski-Harabasz,Silhouette Rank,Davies-Bouldin Rank,Calinski-Harabasz Rank,Average Rank,Overall Rank
+"DBSCAN (eps=0.30, min_samples=5)",27,0,0.9142688903444944,0.08195612633078936,111738.3743887589,1.0,1.0,1.0,1.0,1
+Agglomerative (k=8),8,0,0.771394965632703,0.8785548851036031,32228.39476384886,2.0,2.0,2.0,2.0,2
+K-Means (k=8),8,0,0.7578642431088598,0.932288922953912,30377.51769773919,3.0,3.0,3.0,3.0,3
+Gaussian Mixture (k=8),8,0,0.7367299288786384,1.232712420663447,27291.743089246946,4.0,4.0,4.0,4.0,4

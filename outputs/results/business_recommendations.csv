@@ -1,0 +1,7 @@
+Area,Finding,Recommendation
+Category Performance,Technology has the highest total profit of 146543.38.,Analyze the successful products and pricing patterns within the Technology category and consider maintaining or expanding its successful business practices.
+Category Risk,Furniture has the lowest total profit of 19730.00.,"Investigate pricing, discount levels, product mix, and operating costs within the Furniture category before making pricing or inventory decisions."
+Regional Performance,West region has the highest total profit of 110798.82.,"Examine the products, customers, and sales patterns contributing to the West region's performance for potential practices that can be evaluated in other regions."
+Loss-Making Subcategories,"The following subcategories have negative total profit: Tables, Bookcases, Supplies.","Review pricing, discounting, product costs, and sales volume for these subcategories before increasing their sales or inventory."
+Discount Strategy,The 40-60% discount range has the lowest average profit per transaction at -129.04.,Review high-discount transactions carefully and evaluate whether discounts are generating sufficient sales volume to justify their effect on profitability.
+AI Model Insight,The XAI analysis identified sales as the most important feature according to permutation importance.,Include sales prominently in business dashboards and decision-support analysis because the trained model relies strongly on this feature when predicting profit.
